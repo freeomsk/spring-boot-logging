@@ -1,0 +1,24 @@
+<configuration>
+    <springProperty scope="context" name="region" source="app.region"
+                    defaultValue="moscow-3"/>
+    <property name="LOG_FILE" value="${region}-myapp.log"/>
+
+    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+    <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
+    <include resource="org/springframework/boot/logging/logback/file-appender.xml"/>
+
+    <springProfile name="local">
+        <root level="INFO">
+            <appender-ref ref="CONSOLE"/>
+        </root>
+    </springProfile>
+
+    <springProfile name="!local">
+        <root level="INFO">
+            <appender-ref ref="FILE"/>
+        </root>
+    </springProfile>
+
+    <logger name="ru.freeomsk" level="DEBUG"/>
+    <logger name="org.springframework" level="INFO"/>
+</configuration>

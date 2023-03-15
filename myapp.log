@@ -1,0 +1,243 @@
+2023-03-12T14:42:23.987+06:00  INFO 8228 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 8228 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T14:42:23.989+06:00 DEBUG 8228 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T14:42:23.990+06:00  INFO 8228 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T14:42:24.036+06:00  INFO 8228 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T14:42:24.037+06:00  INFO 8228 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T14:42:24.854+06:00  INFO 8228 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T14:42:24.863+06:00  INFO 8228 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T14:42:24.863+06:00  INFO 8228 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T14:42:24.913+06:00  INFO 8228 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T14:42:24.913+06:00  INFO 8228 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 876 ms
+2023-03-12T14:42:25.209+06:00  INFO 8228 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T14:42:25.238+06:00  INFO 8228 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T14:42:25.246+06:00  INFO 8228 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.657 seconds (process running for 2.166)
+2023-03-12T14:54:08.819+06:00  INFO 5392 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 5392 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T14:54:08.822+06:00 DEBUG 5392 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T14:54:08.823+06:00  INFO 5392 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T14:54:08.876+06:00  INFO 5392 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T14:54:08.877+06:00  INFO 5392 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T14:54:09.755+06:00  INFO 5392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T14:54:09.765+06:00  INFO 5392 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T14:54:09.765+06:00  INFO 5392 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T14:54:09.815+06:00  INFO 5392 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T14:54:09.816+06:00  INFO 5392 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 938 ms
+2023-03-12T14:54:10.130+06:00  INFO 5392 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T14:54:10.161+06:00  INFO 5392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T14:54:10.172+06:00  INFO 5392 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.748 seconds (process running for 2.35)
+2023-03-12T15:00:39.285+06:00  INFO 5392 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T15:00:39.286+06:00  INFO 5392 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T15:00:39.287+06:00  INFO 5392 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T15:00:39.315+06:00 TRACE 5392 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T18:22:37.145+06:00  INFO 6672 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 6672 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T18:22:37.147+06:00 DEBUG 6672 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T18:22:37.148+06:00  INFO 6672 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T18:22:37.190+06:00  INFO 6672 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T18:22:37.190+06:00  INFO 6672 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T18:22:37.950+06:00  INFO 6672 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T18:22:37.959+06:00  INFO 6672 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T18:22:37.959+06:00  INFO 6672 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T18:22:38.010+06:00  INFO 6672 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T18:22:38.010+06:00  INFO 6672 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 819 ms
+2023-03-12T18:22:38.318+06:00  INFO 6672 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T18:22:38.345+06:00  INFO 6672 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T18:22:38.354+06:00  INFO 6672 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.577 seconds (process running for 2.752)
+2023-03-12T18:31:10.580+06:00  INFO 7140 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 7140 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T18:31:10.581+06:00 DEBUG 7140 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T18:31:10.582+06:00  INFO 7140 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T18:31:10.627+06:00  INFO 7140 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T18:31:10.628+06:00  INFO 7140 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T18:31:11.456+06:00  INFO 7140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T18:31:11.466+06:00  INFO 7140 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T18:31:11.467+06:00  INFO 7140 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T18:31:11.518+06:00  INFO 7140 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T18:31:11.519+06:00  INFO 7140 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 890 ms
+2023-03-12T18:31:11.833+06:00  INFO 7140 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T18:31:11.865+06:00  INFO 7140 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T18:31:11.875+06:00  INFO 7140 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.685 seconds (process running for 2.23)
+2023-03-12T18:33:59.475+06:00  INFO 12520 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 12520 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T18:33:59.477+06:00 DEBUG 12520 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T18:33:59.478+06:00  INFO 12520 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T18:33:59.522+06:00  INFO 12520 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T18:33:59.523+06:00  INFO 12520 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T18:34:00.366+06:00  INFO 12520 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T18:34:00.375+06:00  INFO 12520 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T18:34:00.376+06:00  INFO 12520 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T18:34:00.427+06:00  INFO 12520 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T18:34:00.428+06:00  INFO 12520 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 905 ms
+2023-03-12T18:34:00.745+06:00  INFO 12520 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T18:34:00.776+06:00  INFO 12520 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T18:34:00.785+06:00  INFO 12520 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.726 seconds (process running for 2.226)
+2023-03-12T18:34:02.179+06:00  INFO 12520 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T18:34:02.180+06:00  INFO 12520 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T18:34:02.181+06:00  INFO 12520 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T18:34:02.213+06:00 TRACE 12520 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T19:04:06.083+06:00  INFO 7236 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 7236 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T19:04:06.085+06:00 DEBUG 7236 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T19:04:06.086+06:00  INFO 7236 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T19:04:06.139+06:00  INFO 7236 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T19:04:06.139+06:00  INFO 7236 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T19:04:07.061+06:00  INFO 7236 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T19:04:07.071+06:00  INFO 7236 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T19:04:07.071+06:00  INFO 7236 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T19:04:07.126+06:00  INFO 7236 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T19:04:07.127+06:00  INFO 7236 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 987 ms
+2023-03-12T19:04:07.450+06:00  INFO 7236 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T19:04:07.484+06:00  INFO 7236 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T19:04:07.494+06:00  INFO 7236 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.861 seconds (process running for 2.56)
+2023-03-12T19:05:03.946+06:00  INFO 7236 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T19:05:03.947+06:00  INFO 7236 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T19:05:03.948+06:00  INFO 7236 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T19:05:03.981+06:00 TRACE 7236 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T19:17:44.883+06:00  INFO 8056 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 8056 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T19:17:44.885+06:00 DEBUG 8056 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T19:17:44.886+06:00  INFO 8056 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T19:17:44.938+06:00  INFO 8056 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T19:17:44.939+06:00  INFO 8056 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T19:17:45.908+06:00  INFO 8056 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T19:17:45.920+06:00  INFO 8056 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T19:17:45.920+06:00  INFO 8056 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T19:17:45.977+06:00  INFO 8056 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T19:17:45.978+06:00  INFO 8056 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1039 ms
+2023-03-12T19:17:46.348+06:00  INFO 8056 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T19:17:46.384+06:00  INFO 8056 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T19:17:46.394+06:00  INFO 8056 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.951 seconds (process running for 2.672)
+2023-03-12T19:17:58.238+06:00  INFO 8056 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T19:17:58.239+06:00  INFO 8056 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T19:17:58.240+06:00  INFO 8056 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T19:17:58.274+06:00 TRACE 8056 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T19:46:18.402+06:00  INFO 13756 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 13756 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T19:46:18.404+06:00 DEBUG 13756 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T19:46:18.405+06:00  INFO 13756 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T19:46:18.459+06:00  INFO 13756 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T19:46:18.459+06:00  INFO 13756 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T19:46:19.405+06:00  INFO 13756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T19:46:19.416+06:00  INFO 13756 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T19:46:19.416+06:00  INFO 13756 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T19:46:19.472+06:00  INFO 13756 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T19:46:19.473+06:00  INFO 13756 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1013 ms
+2023-03-12T19:46:19.514+06:00 DEBUG 13756 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T19:46:19.815+06:00  INFO 13756 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T19:46:19.850+06:00  INFO 13756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T19:46:19.860+06:00  INFO 13756 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.925 seconds (process running for 2.634)
+2023-03-12T19:46:24.336+06:00  INFO 13756 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T19:46:24.336+06:00  INFO 13756 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T19:46:24.337+06:00  INFO 13756 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T19:46:24.369+06:00 TRACE 13756 --- [http-nio-8080-exec-2] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T21:06:19.776+06:00  INFO 12660 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 12660 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T21:06:19.777+06:00 DEBUG 12660 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T21:06:19.778+06:00  INFO 12660 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T21:06:19.822+06:00  INFO 12660 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T21:06:19.822+06:00  INFO 12660 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T21:06:20.656+06:00  INFO 12660 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T21:06:20.665+06:00  INFO 12660 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T21:06:20.666+06:00  INFO 12660 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T21:06:20.716+06:00  INFO 12660 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T21:06:20.716+06:00  INFO 12660 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 894 ms
+2023-03-12T21:06:20.752+06:00 DEBUG 12660 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T21:06:21.009+06:00  INFO 12660 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T21:06:21.039+06:00  INFO 12660 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T21:06:21.048+06:00  INFO 12660 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.694 seconds (process running for 2.388)
+2023-03-12T21:06:27.826+06:00  INFO 12660 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T21:06:27.826+06:00  INFO 12660 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T21:06:27.827+06:00  INFO 12660 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T21:06:27.860+06:00 TRACE 12660 --- [http-nio-8080-exec-2] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T21:17:49.493+06:00  INFO 7832 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 7832 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T21:17:49.495+06:00 DEBUG 7832 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T21:17:49.496+06:00  INFO 7832 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T21:17:49.539+06:00  INFO 7832 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T21:17:49.540+06:00  INFO 7832 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T21:17:50.376+06:00  INFO 7832 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T21:17:50.385+06:00  INFO 7832 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T21:17:50.385+06:00  INFO 7832 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T21:17:50.434+06:00  INFO 7832 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T21:17:50.434+06:00  INFO 7832 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 894 ms
+2023-03-12T21:17:50.471+06:00 DEBUG 7832 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T21:17:50.735+06:00  INFO 7832 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T21:17:50.763+06:00  INFO 7832 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T21:17:50.772+06:00  INFO 7832 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.674 seconds (process running for 2.183)
+2023-03-12T21:19:23.318+06:00  INFO 7832 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T21:19:23.318+06:00  INFO 7832 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T21:19:23.319+06:00  INFO 7832 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T21:19:23.347+06:00 TRACE 7832 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T21:27:46.186+06:00  INFO 12276 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 12276 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T21:27:46.187+06:00 DEBUG 12276 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T21:27:46.188+06:00  INFO 12276 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T21:27:46.229+06:00  INFO 12276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T21:27:46.230+06:00  INFO 12276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T21:27:47.092+06:00  INFO 12276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T21:27:47.102+06:00  INFO 12276 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T21:27:47.102+06:00  INFO 12276 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T21:27:47.156+06:00  INFO 12276 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T21:27:47.156+06:00  INFO 12276 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 926 ms
+2023-03-12T21:27:47.194+06:00 DEBUG 12276 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T21:27:47.468+06:00  INFO 12276 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T21:27:47.497+06:00  INFO 12276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T21:27:47.505+06:00  INFO 12276 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.722 seconds (process running for 2.22)
+2023-03-12T21:28:58.027+06:00  INFO 10668 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 10668 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T21:28:58.029+06:00 DEBUG 10668 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T21:28:58.030+06:00  INFO 10668 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T21:28:58.071+06:00  INFO 10668 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T21:28:58.072+06:00  INFO 10668 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T21:28:58.866+06:00  INFO 10668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T21:28:58.875+06:00  INFO 10668 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T21:28:58.876+06:00  INFO 10668 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T21:28:58.924+06:00  INFO 10668 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T21:28:58.925+06:00  INFO 10668 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 853 ms
+2023-03-12T21:28:58.961+06:00 DEBUG 10668 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T21:28:59.218+06:00  INFO 10668 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T21:28:59.249+06:00  INFO 10668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T21:28:59.258+06:00  INFO 10668 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.619 seconds (process running for 2.117)
+2023-03-12T21:30:01.536+06:00  INFO 10408 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 10408 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T21:30:01.538+06:00 DEBUG 10408 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T21:30:01.539+06:00  INFO 10408 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T21:30:01.585+06:00  INFO 10408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T21:30:01.585+06:00  INFO 10408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T21:30:02.412+06:00  INFO 10408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T21:30:02.421+06:00  INFO 10408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T21:30:02.421+06:00  INFO 10408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T21:30:02.472+06:00  INFO 10408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T21:30:02.472+06:00  INFO 10408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 887 ms
+2023-03-12T21:30:02.507+06:00 DEBUG 10408 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T21:30:02.767+06:00  INFO 10408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T21:30:02.795+06:00  INFO 10408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T21:30:02.804+06:00  INFO 10408 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.659 seconds (process running for 2.166)
+2023-03-12T21:30:23.262+06:00  INFO 10408 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T21:30:23.262+06:00  INFO 10408 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T21:30:23.263+06:00  INFO 10408 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T21:30:23.300+06:00 TRACE 10408 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T21:40:12.051+06:00  INFO 13404 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 13404 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T21:40:12.052+06:00 DEBUG 13404 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T21:40:12.053+06:00  INFO 13404 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T21:40:12.096+06:00  INFO 13404 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T21:40:12.096+06:00  INFO 13404 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T21:40:12.910+06:00  INFO 13404 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T21:40:12.919+06:00  INFO 13404 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T21:40:12.920+06:00  INFO 13404 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T21:40:12.970+06:00  INFO 13404 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T21:40:12.971+06:00  INFO 13404 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 873 ms
+2023-03-12T21:40:13.006+06:00 DEBUG 13404 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T21:40:13.262+06:00  INFO 13404 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T21:40:13.292+06:00  INFO 13404 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T21:40:13.301+06:00  INFO 13404 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.647 seconds (process running for 2.14)
+2023-03-12T21:47:04.864+06:00  INFO 13404 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T21:47:04.864+06:00  INFO 13404 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T21:47:04.865+06:00  INFO 13404 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-03-12T21:47:04.899+06:00 TRACE 13404 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
+2023-03-12T21:54:33.708+06:00  INFO 13612 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Starting SpringBootLoggingApplication using Java 17.0.4.1 with PID 13612 (C:\JavaMaster\spring-boot-logging\target\classes started by Vladimir in C:\JavaMaster\spring-boot-logging)
+2023-03-12T21:54:33.709+06:00 DEBUG 13612 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-12T21:54:33.710+06:00  INFO 13612 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-12T21:54:33.752+06:00  INFO 13612 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-12T21:54:33.752+06:00  INFO 13612 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-12T21:54:34.552+06:00  INFO 13612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-12T21:54:34.561+06:00  INFO 13612 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-12T21:54:34.561+06:00  INFO 13612 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-12T21:54:34.610+06:00  INFO 13612 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-12T21:54:34.611+06:00  INFO 13612 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 858 ms
+2023-03-12T21:54:34.646+06:00 DEBUG 13612 --- [restartedMain] r.f.springbootlogging.filter.MDCFilter   : Filter 'MDCFilter' configured for use
+2023-03-12T21:54:34.898+06:00  INFO 13612 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-12T21:54:34.928+06:00  INFO 13612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-12T21:54:34.937+06:00  INFO 13612 --- [restartedMain] r.f.s.SpringBootLoggingApplication       : Started SpringBootLoggingApplication in 1.623 seconds (process running for 2.126)
+2023-03-12T21:54:40.538+06:00  INFO 13612 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-12T21:54:40.539+06:00  INFO 13612 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-12T21:54:40.540+06:00  INFO 13612 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-03-12T21:54:40.569+06:00 TRACE 13612 --- [http-nio-8080-exec-1] r.f.s.controller.DemoController          : Имя: Мир
